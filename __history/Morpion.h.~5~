@@ -1,0 +1,21 @@
+//---------------------------------------------------------------------------
+
+#ifndef MorpionH
+#define MorpionH
+//---------------------------------------------------------------------------
+
+#include<iostream>
+
+class Morpion{
+	private:
+		char Grille[9]; // =rien | X=croix | O=Cercle
+        bool CaseVide(short Case);
+	public:
+		Morpion();
+		bool PlacerCroix(short ligne, short colonne);
+		bool PlacerCercle(short ligne, short colonne);
+		void AfficherMorpion();
+};
+
+//---------------------------------------------------------------------------
+#endif

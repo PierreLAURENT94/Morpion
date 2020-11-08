@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/11/06 20:05:55.000.109,=C:\Users\pierr\Documents\Embarcadero\Studio\Projets\File1.cpp</Transaction>
+    <Transaction>2020/11/06 20:05:55.000.044,=C:\Users\pierr\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2020/11/06 20:06:29.000.139,C:\Users\pierr\Desktop\Git\Morpion\File1.cpp=C:\Users\pierr\Documents\Embarcadero\Studio\Projets\File1.cpp</Transaction>
+    <Transaction>2020/11/06 20:06:31.000.504,C:\Users\pierr\Desktop\Git\Morpion\Project1PCH1.h=C:\Users\pierr\Documents\Embarcadero\Studio\Projets\Project1PCH1.h</Transaction>
+    <Transaction>2020/11/06 20:06:33.000.700,C:\Users\pierr\Desktop\Git\Morpion\Project1.cbproj=C:\Users\pierr\Documents\Embarcadero\Studio\Projets\Project1.cbproj</Transaction>
+    <Transaction>2020/11/06 20:08:04.000.689,=C:\Users\pierr\Desktop\Git\Morpion\Unit1.cpp</Transaction>
+    <Transaction>2020/11/06 20:08:16.000.251,C:\Users\pierr\Desktop\Git\Morpion\Morpion.cpp=C:\Users\pierr\Desktop\Git\Morpion\Unit1.cpp</Transaction>
+    <Transaction>2020/11/06 20:08:16.000.251,C:\Users\pierr\Desktop\Git\Morpion\Morpion.h=C:\Users\pierr\Desktop\Git\Morpion\Unit1.h</Transaction>
+    <Transaction>2020/11/06 22:02:24.000.567,C:\Users\pierr\Desktop\Git\Morpion\Project1PCH1.h=C:\Users\pierr\Desktop\Git\Morpion\MorpionPCH1.h</Transaction>
+    <Transaction>2020/11/06 22:02:24.000.595,C:\Users\pierr\Desktop\Git\Morpion\Project1.cbproj=C:\Users\pierr\Desktop\Git\Morpion\Morpion.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>

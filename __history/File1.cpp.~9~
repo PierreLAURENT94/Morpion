@@ -1,0 +1,30 @@
+#include<iostream>
+#include"Morpion.h"
+using namespace std;
+
+int main(){
+	Morpion Jeu;
+	short ligne, colonne;
+	cout << "Bienvenu sur le Morpion!" << endl;
+	Jeu.AfficherMorpion();
+	while(true){
+		bool Placer = false;
+		while(Placer){
+			cout << "Joueur croix, choisissez la ligne: ";
+			cin >> ligne;
+			cout << "Joueur croix, choisissez la colonne: ";
+			cin >> colonne;
+			Placer = Jeu.PlacerCroix(ligne, colonne);
+		}
+		Jeu.AfficherMorpion();
+		Placer = false;
+		while(Placer){
+			cout << "Joueur cercle, choisissez la ligne: ";
+			cin >> ligne;
+			cout << "Joueur cercle, choisissez la colonne: ";
+			cin >> colonne;
+			Jeu.PlacerCercle(ligne, colonne);
+		}
+		Jeu.AfficherMorpion();
+	}
+}
